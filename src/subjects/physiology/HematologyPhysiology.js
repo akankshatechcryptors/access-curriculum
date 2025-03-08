@@ -360,15 +360,24 @@ export const competencies = [
         { title: "Resource 3", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=2925"}
       ],},
     '2.13': {  'Textbook': [
-        { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/content.aspx?bookid=2914&sectionid=245544183#245544184" },
-        { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/content.aspx?sectionid=286081628&bookid=3413#1207360717" },
+        { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/content.aspx?sectionid=247760231&bookid=2927#247760572" },
+        { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/content.aspx?sectionid=152254910&bookid=2032#1139363267" },
+        { title: "Resource 3", link: "https://accessbiomedicalscience.mhmedical.com/content.aspx?sectionid=124979666&bookid=1802#124979674"},
+        { title: "Resource 4", link: "https://accessmedicine.mhmedical.com/content.aspx?sectionid=152254910&bookid=2032#152255303"}
+
         
       ],
       'Table/Figure': [
-        { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=160313928&gbosContainerID=0&gbosid=0&groupID=0&sectionId=160313914&multimediaId=undefined" }
+        { title: "Resource 1", link: "https://accessbiomedicalscience.mhmedical.com/ViewLarge.aspx?figid=124976752&gbosContainerID=0&gbosid=0&groupID=0&sectionId=124976687&multimediaId=undefined" },
+        { title: "Resource 2", link: "https://accessbiomedicalscience.mhmedical.com/ViewLarge.aspx?figid=124976743&gbosContainerID=0&gbosid=0&groupID=0&sectionId=124976687&multimediaId=undefined"},
+        { title: "Resource 3", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=269143902" },
+        { title: "Resource 4", link: "https://accessbiomedicalscience.mhmedical.com/ViewLarge.aspx?figid=124979681&gbosContainerID=0&gbosid=0&groupID=0&sectionId=124979666&multimediaId=undefined" },
+        { title: "Resource 5", link: "https://accessphysiotherapy.mhmedical.com/ViewLarge.aspx?figid=250966957" },
+
       ],
       'Multimedia': [
-        { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=18849715" }
+        { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=18849709" },
+        { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=18865706"},
       ],
        'Cases': [
         { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/CaseContent.aspx?gbosID=553051&gbosContainerID=250&viewByNumber=false&groupid=373#251029944" },
@@ -380,9 +389,7 @@ export const competencies = [
         { title: "Resource 7", link: "https://accessmedicine.mhmedical.com/CaseContent.aspx?gbosID=440319&gbosContainerID=216&viewByNumber=false&groupid=374#197857496"},
 
       ],
-      'Flashcards': [
-        { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gbosContainerId=315&gbosId=629988&categoryId=47421" }
-      ],
+   
       'Q & A': [
         { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=3414" },
         { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=2536"},
