@@ -18,6 +18,13 @@ const physiologyTopics = [
   'Integrated Physiology',
 ];
 
+const anatomyTopics = [
+  'Thoracic Cage',
+  'Posterior Triangle of Neck',
+  'Abdominal Cavity',
+  'Features of Individual Bones(Upper Limb)',
+];
+
 const SubjectPage = () => {
   const { subject } = useParams();
 
@@ -28,7 +35,12 @@ const SubjectPage = () => {
     { label: subjectLabel, path: subject ? `/subject/${subject}` : '/' },
   ];
 
-  const topics = subject && subject.toLowerCase() === 'physiology' ? physiologyTopics : [];
+  const topics = subject && subject.toLowerCase() === 'physiology' 
+    ? physiologyTopics 
+    : subject && subject.toLowerCase() === 'anatomy' 
+    ? anatomyTopics 
+    : [];
+  
 
   return (
     <Box sx={{ px: '2vw', pb: 3, position: 'relative' }}>

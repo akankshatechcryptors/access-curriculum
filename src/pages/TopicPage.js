@@ -16,6 +16,10 @@ import * as EndocrinePhysiology from '../subjects/physiology/EndocrinePhysiology
 import * as ReproductiveSystemPhysiology from '../subjects/physiology/ReproductiveSystemPhysiology';
 import * as Neurophysiology from '../subjects/physiology/Neurophysiology';
 import * as IntegratedPhysiology from '../subjects/physiology/IntegratedPhysiology';
+import * as UpperLimb from '../subjects/anatomy/UpperLimb';
+import * as ThoracicCage from '../subjects/anatomy/ThoracicCage'
+import * as AbdominalCavity from '../subjects/anatomy/AbdominalCavity';
+import * as Posterior from '../subjects/anatomy/Posterior';
 
 // Map topic names to their data
 const topicData = {
@@ -30,6 +34,10 @@ const topicData = {
   'reproductive-system-physiology': ReproductiveSystemPhysiology,
   'neurophysiology': Neurophysiology,
   'integrated-physiology': IntegratedPhysiology,
+  'features-of-individual-bones(upper-limb)': UpperLimb,
+  'thoracic-cage': ThoracicCage,
+  'abdominal-cavity': AbdominalCavity,
+  'posterior': Posterior
 };
 
 const TopicPage = () => {
