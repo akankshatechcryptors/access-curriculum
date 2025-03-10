@@ -37,7 +37,7 @@ const topicData = {
   'features-of-individual-bones(upper-limb)': UpperLimb,
   'thoracic-cage': ThoracicCage,
   'abdominal-cavity': AbdominalCavity,
-  'posterior': Posterior
+  'posterior-triangle-of-neck': Posterior
 };
 
 const TopicPage = () => {

@@ -34,7 +34,7 @@ const topicData = {
   'features-of-individual-bones(upper-limb)': UpperLimb,
   'thoracic-cage': ThoracicCage,
   'abdominal-cavity': AbdominalCavity,
-  'posterior': Posterior
+  'posterior-triangle-of-neck': Posterior
 };
 
 const TopicSubAccordion = ({ topic, competency, subject, parentTopic }) => {
@@ -48,7 +48,7 @@ const TopicSubAccordion = ({ topic, competency, subject, parentTopic }) => {
   };
 
   const placeholderContent = [
-    { title: "No Resource Available", link: "" },
+    { title: "No Resource Available"},
   ];
 
   const topicInfo = topicData[parentTopic.toLowerCase()] || { content: {} };
