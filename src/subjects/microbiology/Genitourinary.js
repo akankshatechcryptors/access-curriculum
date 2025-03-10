@@ -1,8 +1,7 @@
 export const competencies = [
-    `7.1  Describe the etio-pathogenesis and discuss the laboratory diagnosis of infections of genitourinary system `,
+    '7.1  Describe the etio-pathogenesis and discuss the laboratory diagnosis of infections of genitourinary system',
     '7.2  Describe the etio-pathogenesis and discuss the laboratory diagnosis of sexually transmitted infections. Recommend preventive measures',
     '7.3  Describe the etio-pathogenesis, clinical features, the appropriate method for specimen collection, and discuss the laboratory diagnosis of Urinary tract infections',
-   
 ]
   export const content = {
     '7.1': {
@@ -87,7 +86,5 @@ export const competencies = [
         { title: "Resource 2", link:"https://accessmedicine.mhmedical.com/qa.aspx?resourceid=3112"},
         { title: "Resource 3", link:"https://accessmedicine.mhmedical.com/qa.aspx?resourceid=2656"}
       ],
-      },
-       
-    
+      }, 
   };
