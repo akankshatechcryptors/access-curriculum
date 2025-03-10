@@ -6,7 +6,7 @@ export const competencies = [
   '21.5 Describe & demonstrate extent, attachments, direction of fibres, nerve supply and actions of intercostal muscles ',
   '21.6 Mention origin, course and branches/ tributaries of: 1) anterior & posterior intercostal vessels 2) internal thoracic vessels',
   '21.7 Mention the origin, course, relations and branches of 1) atypical intercostal nerve 2) superior intercostal artery, subcostal artery',
-  '21.8 "Describe & demonstrate type, articular surfaces & movements of manubriosternal, costovertebral, costotransverse and xiphisternal joints"',
+  '21.8 Describe & demonstrate type, articular surfaces & movements of manubriosternal, costovertebral, costotransverse and xiphisternal joints',
   '21.9 Describe & demonstrate mechanics and types of respiration',
   '21.10 Describe costochondral and interchondral joints',
   '21.11 Mention boundaries and contents of the superior, anterior, middle and posterior mediastinum',
@@ -312,7 +312,7 @@ export const content = {
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=202020355&gbosContainerID=0&gbosid=0&groupID=0&sectionId=202020351&multimediaId=undefined" },
       { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=286445338&gbosContainerID=0&gbosid=0&groupID=0&sectionId=286445224&multimediaId=undefined" },
       { title: "Resource 3", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=286445361&gbosContainerID=0&gbosid=0&groupID=0&sectionId=286445224&multimediaId=undefined" },
-      { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=286445522&gbosContainerID=0&gbosid=0&groupID=0&sectionId=286445224&multimediaId=undefined"},
+      { title: "Resource 4", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=286445522&gbosContainerID=0&gbosid=0&groupID=0&sectionId=286445224&multimediaId=undefined"},
     ],
     'Multimedia': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=18859212" },
