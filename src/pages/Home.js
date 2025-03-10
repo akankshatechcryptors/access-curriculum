@@ -4,7 +4,7 @@ import SubjectCard from '../components/SubjectCard';
 import { motion } from 'framer-motion';
 import BoyStudyingLottie from '../components/BoyStudyingLottie';
 
-const subjects = ['Anatomy', 'Physiology', 'Biochemistry', 'Pharmacology'];
+const subjects = ['Anatomy', 'Physiology', 'Biochemistry', 'Pharmacology', 'Pathology', 'Microbiology'];
 
 const Home = () => {
   return (

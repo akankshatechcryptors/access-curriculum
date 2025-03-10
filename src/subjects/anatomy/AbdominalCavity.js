@@ -58,7 +58,7 @@ export const content = {
       { title: "Resource 1", link: "https://accessphysiotherapy.mhmedical.com/ViewLarge.aspx?figid=169757448&gbosContainerID=0&gbosid=0&groupID=0&sectionId=169757343&multimediaId=undefined" },
       { title: "Resource 2", link: "https://accessphysiotherapy.mhmedical.com/ViewLarge.aspx?figid=202020506&gbosContainerID=0&gbosid=0&groupID=0&sectionId=202020500&multimediaId=undefined" },
       { title: "Resource 3", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=286446087&gbosContainerID=0&gbosid=0&groupID=0&sectionId=286446048&multimediaId=undefined" },
-      { title: "Resource 3", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=286446086&gbosContainerID=0&gbosid=0&groupID=0&sectionId=286446048&multimediaId=undefined" },
+      { title: "Resource 4", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=286446086&gbosContainerID=0&gbosid=0&groupID=0&sectionId=286446048&multimediaId=undefined" },
     ],
     'Multimedia': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=17566141" },

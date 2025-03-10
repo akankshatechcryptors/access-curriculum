@@ -25,6 +25,22 @@ const anatomyTopics = [
   'Features of Individual Bones(Upper Limb)',
 ];
 
+const biochemistryTopics = [
+  'Biochemical Laboratory Tests'
+];
+
+const microbiologyTopics = [
+  'Genitourinary & Sexually transmitted infections'
+];
+
+const pathologyTopics = [
+  'Neoplastic disorders'
+];
+
+const pharmacologyTopics =[
+  'Pharmacology'
+];
+
 const SubjectPage = () => {
   const { subject } = useParams();
 
@@ -39,6 +55,14 @@ const SubjectPage = () => {
     ? physiologyTopics 
     : subject && subject.toLowerCase() === 'anatomy' 
     ? anatomyTopics 
+    : subject && subject.toLowerCase() === 'biochemistry' 
+    ? biochemistryTopics 
+    : subject && subject.toLowerCase() === 'microbiology' 
+    ? microbiologyTopics
+    : subject && subject.toLowerCase() === 'pathology' 
+    ? pathologyTopics
+    : subject && subject.toLowerCase() === 'pharmacology' 
+    ? pharmacologyTopics
     : [];
   
 

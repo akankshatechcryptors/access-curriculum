@@ -20,11 +20,23 @@ const CompetencyAccordion = ({ competency, subject, topic }) => {
   const defaultTopics = ['Books', 'Chapters', 'Videos', 'Cases', 'Q&A'];
   const physiologyTopics = ['Textbook', 'Table/Figure', 'Multimedia', 'Cases', 'Flashcards', 'Q & A'];
   const anatomyTopics = ['Textbooks', 'Dissection', 'Images & Tables', 'Multimedia', 'Cases', 'Q & A', 'Anatomy and Physiology'];
+  const biochemistryTopics = ['Textbooks', 'Images & Tables','Cases', 'Q & A'];
+  const pharmacologyTopics = ['Textbooks', 'Images & Tables', 'Multimedia', 'Cases', 'Flashcards', 'Q & A'];
+  const microbiologyTopics = ['Textbooks', 'Images & Tables', 'Multimedia', 'Cases', 'Flashcards', 'Q & A'];
+  const pathologyTopics = ['Textbooks', 'Images & Tables', 'Flashcards', 'Cases', 'Q & A'];
 
   const topics = subject.toLowerCase() === 'physiology' 
     ? physiologyTopics 
     : subject.toLowerCase() === 'anatomy' 
     ? anatomyTopics 
+    : subject.toLowerCase() === 'biochemistry' 
+    ? biochemistryTopics
+    : subject.toLowerCase() === 'microbiology' 
+    ? microbiologyTopics
+    : subject.toLowerCase() === 'pathology' 
+    ? pathologyTopics
+    : subject.toLowerCase() === 'pharmacology' 
+    ? pharmacologyTopics
     : defaultTopics;
 
   const displayCompetency = typeof competency === 'string' ? competency : `Competency ${competency}`;

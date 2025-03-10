@@ -20,6 +20,10 @@ import * as UpperLimb from '../subjects/anatomy/UpperLimb';
 import * as ThoracicCage from '../subjects/anatomy/ThoracicCage'
 import * as AbdominalCavity from '../subjects/anatomy/AbdominalCavity';
 import * as Posterior from '../subjects/anatomy/Posterior';
+import * as BiochemicalLab from '../subjects/biochemistry/BiochemicalLabTests';
+import * as Genitourinary from '../subjects/microbiology/Genitourinary';
+import * as NeoplasticDisorders from '../subjects/pathology/NeoplasticDisorders';
+import * as Pharmacology from '../subjects/pharmacology/Pharmacology'
 
 // Map topic names to their data
 const topicData = {
@@ -37,7 +41,12 @@ const topicData = {
   'features-of-individual-bones(upper-limb)': UpperLimb,
   'thoracic-cage': ThoracicCage,
   'abdominal-cavity': AbdominalCavity,
-  'posterior-triangle-of-neck': Posterior
+  'posterior-triangle-of-neck': Posterior,
+  'biochemical-laboratory-tests': BiochemicalLab,
+  'genitourinary-&-sexually-transmitted-infections': Genitourinary,
+  'neoplastic-disorders': NeoplasticDisorders,
+  'pharmacology' : Pharmacology
+  
 };
 
 const TopicPage = () => {
