@@ -19,7 +19,7 @@ const CompetencyAccordion = ({ competency, subject, topic }) => {
 
   const defaultTopics = ['Books', 'Chapters', 'Videos', 'Cases', 'Q&A'];
   const physiologyTopics = ['Textbook', 'Table/Figure', 'Multimedia', 'Cases', 'Flashcards', 'Q & A'];
-  const anatomyTopics = ['Textbooks', 'Dissection', 'Images & Tables', 'Multimedia', 'Cases', 'Q&A', 'Anatomy and Physiology'];
+  const anatomyTopics = ['Textbooks', 'Dissection', 'Images & Tables', 'Multimedia', 'Cases', 'Q & A', 'Anatomy and Physiology'];
 
   const topics = subject.toLowerCase() === 'physiology' 
     ? physiologyTopics 
