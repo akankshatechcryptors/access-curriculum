@@ -29,6 +29,7 @@ export const content = {
     ],
     'Flashcards': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gboscontainerid=322&gbosId=634418&categoryId=47407" },
+      { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/flashcards.aspx?gboscontainerid=322"}
     ],
     'Q & A': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=3414" },
@@ -58,6 +59,7 @@ export const content = {
     ],
     'Flashcards': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gboscontainerid=322&gbosId=634418&categoryId=47407" },
+      { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/flashcards.aspx?gboscontainerid=322"}
     ],
     'Q & A': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=3414" },
@@ -130,6 +132,7 @@ export const content = {
     ],
     'Flashcards': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gboscontainerid=322&gbosId=634418&categoryId=47407" },
+      { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/flashcards.aspx?gboscontainerid=322"}
     ],
     'Q & A': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=3414" },
@@ -173,6 +176,7 @@ export const content = {
     ],
     'Flashcards': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gboscontainerid=322&gbosId=634418&categoryId=47407" },
+      { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/flashcards.aspx?gboscontainerid=322"}
     ],
     'Q & A': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=3414" },
@@ -200,6 +204,7 @@ export const content = {
 
     'Flashcards': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gboscontainerid=322&gbosId=634418&categoryId=47407" },
+      { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/flashcards.aspx?gboscontainerid=322"}
     ],
     'Q & A': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=3414" },
@@ -228,6 +233,7 @@ export const content = {
     ],
     'Flashcards': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gboscontainerid=322&gbosId=634418&categoryId=47407" },
+      { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/flashcards.aspx?gboscontainerid=322"}
     ],
     'Q & A': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=3414" },
@@ -250,6 +256,7 @@ export const content = {
 
     'Flashcards': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gboscontainerid=322&gbosId=634418&categoryId=47407" },
+      { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/flashcards.aspx?gboscontainerid=322"}
     ],
     'Q & A': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=3414" },
@@ -270,6 +277,7 @@ export const content = {
     ],
     'Flashcards': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gboscontainerid=322&gbosId=634418&categoryId=47407" },
+      { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/flashcards.aspx?gboscontainerid=322"}
     ],
     'Q & A': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/qa.aspx?groupid=962&categoryid=38702&resourceid=3414" },
