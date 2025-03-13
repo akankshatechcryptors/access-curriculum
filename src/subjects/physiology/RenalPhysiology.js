@@ -193,7 +193,9 @@ export const content = {
       { title: "Resource 4", link: "https://accessmedicine.mhmedical.com/content.aspx?sectionid=227558683&bookid=2738&Resultclick=2" }
     ],
     'Table/Figure': [
-      { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=204298115&gbosContainerID=0&gbosid=0&groupID=0&sectionId=204297900&multimediaId=undefined" }
+      { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=204298113&gbosContainerID=0&gbosid=0&groupID=0&sectionId=204297900&multimediaId=undefined",
+        title: "Resource 2", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=204298115&gbosContainerID=0&gbosid=0&groupID=0&sectionId=204297900&multimediaId=undefined" 
+       }
     ],
     'Multimedia': [
       { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=18849815" },

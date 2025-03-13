@@ -1455,7 +1455,7 @@ export const competencies = [
         ],
         'Images & Tables': [
             { title: "Resource 1", link: "https://accessworldmed.mhmedical.com/ViewLarge.aspx?figid=283503806&gbosContainerID=0&gbosid=0&groupID=0&sectionId=283503700&multimediaId=undefined" },
-            { title: "Resource 2", link: "" },
+            { title: "Resource 2", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=46797268&gbosContainerID=0&gbosid=0&groupID=0&sectionId=46796904" },
         ],     
         'Flashcards': [
         { title: "Resource 1", link: "https://accessmedicine.mhmedical.com/flashcard.aspx?gbosContainerId=320&gbosId=629428&categoryId=47006" },

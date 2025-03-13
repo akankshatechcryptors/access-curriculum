@@ -357,7 +357,7 @@ export const content = {
       ],
     'Images & Tables': [
       { title: "Resource 1", link: "https://accessphysiotherapy.mhmedical.com/ViewLarge.aspx?figid=169756808&gbosContainerID=0&gbosid=0&groupID=0&sectionId=169756785&multimediaId=undefined" },
-      { title: "Resource 2", link: "http://../../../Lenovo/Downloads/Table%2011_Spinal%20nerve%20plexuses%20and%20their%20distribution.pdf" },
+      { title: "Resource 2", link: "https://accessphysiotherapy.mhmedical.com/ViewLarge.aspx?figid=169756808&gbosContainerID=0&gbosid=0&groupID=0&sectionId=169756785&multimediaId=undefined" },
       { title: "Resource 3", link: "https://fadavisat.mhmedical.com/ViewLarge.aspx?figid=275177335&gbosContainerID=0&gbosid=0&groupID=0&sectionId=275177282&multimediaId=undefined" },
       { title: "Resource 4", link: "https://accessmedicine.mhmedical.com/ViewLarge.aspx?figid=286446570&gbosContainerID=0&gbosid=0&groupID=0&sectionId=286446491&multimediaId=undefined"},
     ],
