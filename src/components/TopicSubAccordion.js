@@ -23,6 +23,7 @@ import * as NeoplasticDisorders from '../subjects/pathology/NeoplasticDisorders'
 import * as Pharmacology from '../subjects/pharmacology/Pharmacology';
 import * as Shock from '../subjects/surgery/Shock';
 import * as Infertility from '../subjects/gynecology/Infertility';
+import * as Labour from '../subjects/gynecology/Labour';
 
 
 
@@ -47,7 +48,8 @@ const topicData = {
   'neoplastic-disorders': NeoplasticDisorders,
   'pharmacology' : Pharmacology,
   'shock': Shock,
-  'infertility': Infertility
+  'infertility': Infertility,
+   'labour': Labour,
 };
 
 const TopicSubAccordion = ({ topic, competency, subject, parentTopic }) => {

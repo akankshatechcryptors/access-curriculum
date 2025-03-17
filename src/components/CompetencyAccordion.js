@@ -24,7 +24,7 @@ const CompetencyAccordion = ({ competency, subject, topic }) => {
   const pharmacologyTopics = ['Textbooks', 'Images & Tables', 'Multimedia', 'Cases', 'Flashcards', 'Q & A'];
   const microbiologyTopics = ['Textbooks', 'Images & Tables', 'Multimedia', 'Cases', 'Flashcards', 'Q & A'];
   const pathologyTopics = ['Textbooks', 'Images & Tables', 'Flashcards', 'Cases', 'Q & A'];
-  const surgeryTopics= ['Textbook Chapters', 'Quick References', 'Differential Diagnosis', 'Clinical Cases', 'Patient Education', 'Boards & Beyond', 'Multimedia:Podcast', 'Review Questions', '2 Minute Medicine/2MM'];
+  const surgeryTopics= ['Textbook Chapters', 'Quick References', 'Differential Diagnosis', 'Clinical Cases', 'Patient Education', 'Boards & Beyond', 'Multimedia:Podcast','Multimedia:Infographics', 'Review Questions', '2 Minute Medicine/2MM'];
   const gynecologyTopics= ['Textbook Chapters', 'Quick References', 'Differential Diagnosis', 'Clinical Cases', 'Patient Education', 'Boards & Beyond', 'Multimedia:Podcast', 'Review Questions', '2 Minute Medicine/2MM'];
 
   const topics = subject.toLowerCase() === 'physiology' 

@@ -46,7 +46,8 @@ const surgeryTopics= [
 ];
 
 const gynecologyTopics= [
-  'Infertility'
+  'Infertility',
+  'Labour'
 ];
 
 const SubjectPage = () => {

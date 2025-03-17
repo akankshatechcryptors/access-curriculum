@@ -25,7 +25,8 @@ import * as Genitourinary from '../subjects/microbiology/Genitourinary';
 import * as NeoplasticDisorders from '../subjects/pathology/NeoplasticDisorders';
 import * as Pharmacology from '../subjects/pharmacology/Pharmacology';
 import * as Shock from '../subjects/surgery/Shock';
-import * as Infertility from '../subjects/gynecology/Infertility'
+import * as Infertility from '../subjects/gynecology/Infertility';
+import * as Labour from '../subjects/gynecology/Labour';
 
 // Map topic names to their data
 const topicData = {
@@ -49,7 +50,8 @@ const topicData = {
   'neoplastic-disorders': NeoplasticDisorders,
   'pharmacology' : Pharmacology,
   'shock': Shock,
-  'infertility': Infertility
+  'infertility': Infertility,
+  'labour': Labour,
   
 };
 
