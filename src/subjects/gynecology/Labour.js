@@ -9,8 +9,8 @@ export const competencies = [
   export const content = {
     '28.1': {
       'Textbook Chapters': [
-        { title: "Resource 1", link: "https://obgyn.mhmedical.com/content.aspx?sectionid=220755091&bookid=2658&Resultclick=2#1171530755" },
-        { title: "Resource 2", link: "https://obgyn.mhmedical.com/content.aspx?sectionid=241010619&bookid=2658&Resultclick=2#1171530953" },
+        { title: "Resource 1", link: "" },
+        { title: "Resource 2", link: "" },
     ],
       'Quick References': [
         { title: "Resource 1", link: "" },
