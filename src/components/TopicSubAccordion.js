@@ -20,7 +20,9 @@ import * as Posterior from '../subjects/anatomy/Posterior';
 import * as BiochemicalLab from '../subjects/biochemistry/BiochemicalLabTests';
 import * as Genitourinary from '../subjects/microbiology/Genitourinary';
 import * as NeoplasticDisorders from '../subjects/pathology/NeoplasticDisorders';
-import * as Pharmacology from '../subjects/pharmacology/Pharmacology'
+import * as Pharmacology from '../subjects/pharmacology/Pharmacology';
+import * as Shock from '../subjects/surgery/Shock';
+import * as Infertility from '../subjects/gynecology/Infertility';
 
 
 
@@ -43,7 +45,9 @@ const topicData = {
   'biochemical-laboratory-tests': BiochemicalLab,
   'genitourinary-&-sexually-transmitted-infections': Genitourinary,
   'neoplastic-disorders': NeoplasticDisorders,
-  'pharmacology' : Pharmacology
+  'pharmacology' : Pharmacology,
+  'shock': Shock,
+  'infertility': Infertility
 };
 
 const TopicSubAccordion = ({ topic, competency, subject, parentTopic }) => {

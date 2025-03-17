@@ -41,6 +41,14 @@ const pharmacologyTopics =[
   'Pharmacology'
 ];
 
+const surgeryTopics= [
+    'Shock'
+];
+
+const gynecologyTopics= [
+  'Infertility'
+];
+
 const SubjectPage = () => {
   const { subject } = useParams();
 
@@ -63,6 +71,10 @@ const SubjectPage = () => {
     ? pathologyTopics
     : subject && subject.toLowerCase() === 'pharmacology' 
     ? pharmacologyTopics
+    : subject && subject.toLowerCase() === 'surgery' 
+    ? surgeryTopics
+    : subject && subject.toLowerCase() === 'gynecology' 
+    ? gynecologyTopics
     : [];
   
 
