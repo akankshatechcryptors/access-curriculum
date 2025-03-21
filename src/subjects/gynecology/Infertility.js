@@ -29,7 +29,7 @@ export const competencies = [
         { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/patientEdHandouts.aspx?gbosID=361618" },
     ],
     'Boards & Beyond': [
-        { title: "Resource 1", link: "https://www.boardsbeyond.com/login" },
+        { title: "Resource 1", link: "https://www.boardsbeyond.com/video/clinical-confidence/infertility-&&-assisted-reproduction" },
     ],
     'Review Questions': [
         { title: "Resource 1", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/qa.aspx?groupid=964&categoryid=0&resourceid=3030" },
@@ -39,7 +39,6 @@ export const competencies = [
         
     ]
     },
-    // Repeat for 1.2 to 1.13 with placeholders
     '28.2': { 
          'Textbook Chapters': [
         { title: "Resource 1", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/content.aspx?sectionid=172968989&bookid=2231#183927598" },
@@ -64,7 +63,7 @@ export const competencies = [
         { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/patientEdHandouts.aspx?gbosID=361618" },
     ],
     'Boards & Beyond': [
-        { title: "Resource 1", link: "https://www.boardsbeyond.com/login" },
+        { title: "Resource 1", link: "https://www.boardsbeyond.com/video/clinical-confidence/infertility-&&-assisted-reproduction" },
     ],
     'Review Questions': [
         { title: "Resource 1", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/qa.aspx?groupid=964&categoryid=0&resourceid=3030" },
@@ -97,7 +96,7 @@ export const competencies = [
         { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/patientEdHandouts.aspx?gbosID=361618" },
     ],
     'Boards & Beyond': [
-        { title: "Resource 1", link: "https://www.boardsbeyond.com/login" },
+        { title: "Resource 1", link: "https://www.boardsbeyond.com/video/clinical-confidence/infertility-&&-assisted-reproduction" },
     ],
     'Review Questions': [
         { title: "Resource 1", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/qa.aspx?groupid=964&categoryid=0&resourceid=3030" },
@@ -130,7 +129,7 @@ export const competencies = [
         { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/patientEdHandouts.aspx?gbosID=361618" },
     ],
     'Boards & Beyond': [
-        { title: "Resource 1", link: "https://www.boardsbeyond.com/login" },
+        { title: "Resource 1", link: "https://www.boardsbeyond.com/video/clinical-confidence/infertility-&&-assisted-reproduction" },
     ],
     'Review Questions': [
         { title: "Resource 1", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/qa.aspx?groupid=964&categoryid=0&resourceid=3030" },

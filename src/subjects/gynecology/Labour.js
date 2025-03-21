@@ -29,16 +29,16 @@ export const competencies = [
         { title: "Resource 7", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/CaseContent.aspx?gbosID=284296&gbosContainerID=131"},
     ],
       'Patient Education': [
-        { title: "Resource 1", link: "" },
+        { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/patientEdHandouts.aspx?groupID=1126&&categoryID=41763&&selectedletter=L&&gbosID=251324" },
     ],
     'Boards & Beyond': [
-        { title: "Resource 1", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 2", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 3", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 4", link: "https://www.boardsbeyond.com/login" },
+        { title: "Resource 1", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-i" },
+        { title: "Resource 2", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-ii" },
+        { title: "Resource 3", link: "https://www.boardsbeyond.com/video/step-2-3-c/intrapartum-fetal-monitoring" },
+        { title: "Resource 4", link: "https://www.boardsbeyond.com/video/step-2-3-c/preterm-labor" },
     ],
     'Multimedia:Podcast': [
-        { title: "Resource 1", link: "" },
+        { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=17964594" },
         { title: "Resource 2", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=19277609" },
     ],
     'Review Questions': [
@@ -75,16 +75,16 @@ export const competencies = [
         { title: "Resource 7", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/CaseContent.aspx?gbosID=284296&gbosContainerID=131"},
     ],
       'Patient Education': [
-        { title: "Resource 1", link: "" },
+        { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/patientEdHandouts.aspx?groupID=1126&&categoryID=41763&&selectedletter=L&&gbosID=251324" },
     ],
     'Boards & Beyond': [
-        { title: "Resource 1", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 2", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 3", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 4", link: "https://www.boardsbeyond.com/login" },
+        { title: "Resource 1", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-i" },
+        { title: "Resource 2", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-ii" },
+        { title: "Resource 3", link: "https://www.boardsbeyond.com/video/step-2-3-c/intrapartum-fetal-monitoring" },
+        { title: "Resource 4", link: "https://www.boardsbeyond.com/video/step-2-3-c/preterm-labor" },
     ],
     'Multimedia:Podcast': [
-        { title: "Resource 1", link: "" },
+        { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=17964594" },
         { title: "Resource 2", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=19277609" },
     ],
     'Review Questions': [
@@ -120,16 +120,16 @@ export const competencies = [
         { title: "Resource 7", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/CaseContent.aspx?gbosID=284296&gbosContainerID=131"},
     ],
       'Patient Education': [
-        { title: "Resource 1", link: "" },
+        { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/patientEdHandouts.aspx?groupID=1126&&categoryID=41763&&selectedletter=L&&gbosID=251324" },
     ],
     'Boards & Beyond': [
-        { title: "Resource 1", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 2", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 3", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 4", link: "https://www.boardsbeyond.com/login" },
+        { title: "Resource 1", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-i" },
+        { title: "Resource 2", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-ii" },
+        { title: "Resource 3", link: "https://www.boardsbeyond.com/video/step-2-3-c/intrapartum-fetal-monitoring" },
+        { title: "Resource 4", link: "https://www.boardsbeyond.com/video/step-2-3-c/preterm-labor" },
     ],
     'Multimedia:Podcast': [
-        { title: "Resource 1", link: "" },
+        { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=17964594" },
         { title: "Resource 2", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=19277609" },
     ],
     'Review Questions': [
@@ -164,16 +164,16 @@ export const competencies = [
         { title: "Resource 7", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/CaseContent.aspx?gbosID=284296&gbosContainerID=131"},
     ],
       'Patient Education': [
-        { title: "Resource 1", link: "" },
+        { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/patientEdHandouts.aspx?groupID=1126&&categoryID=41763&&selectedletter=L&&gbosID=251324" },
     ],
     'Boards & Beyond': [
-        { title: "Resource 1", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 2", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 3", link: "https://www.boardsbeyond.com/login" },
-        { title: "Resource 4", link: "https://www.boardsbeyond.com/login" },
+        { title: "Resource 1", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-i" },
+        { title: "Resource 2", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-ii" },
+        { title: "Resource 3", link: "https://www.boardsbeyond.com/video/step-2-3-c/intrapartum-fetal-monitoring" },
+        { title: "Resource 4", link: "https://www.boardsbeyond.com/video/step-2-3-c/preterm-labor" },
     ],
     'Multimedia:Podcast': [
-        { title: "Resource 1", link: "" },
+        { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=17964594" },
         { title: "Resource 2", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=19277609" },
     ],
     'Review Questions': [
@@ -208,16 +208,16 @@ export const competencies = [
      { title: "Resource 7", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/CaseContent.aspx?gbosID=284296&gbosContainerID=131"},
  ],
    'Patient Education': [
-     { title: "Resource 1", link: "" },
+    { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/patientEdHandouts.aspx?groupID=1126&&categoryID=41763&&selectedletter=L&&gbosID=251324" },
  ],
  'Boards & Beyond': [
-     { title: "Resource 1", link: "https://www.boardsbeyond.com/login" },
-     { title: "Resource 2", link: "https://www.boardsbeyond.com/login" },
-     { title: "Resource 3", link: "https://www.boardsbeyond.com/login" },
-     { title: "Resource 4", link: "https://www.boardsbeyond.com/login" },
+    { title: "Resource 1", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-i" },
+        { title: "Resource 2", link: "https://www.boardsbeyond.com/video/step-2-3-c/labor-and-delivery-ii" },
+        { title: "Resource 3", link: "https://www.boardsbeyond.com/video/step-2-3-c/intrapartum-fetal-monitoring" },
+        { title: "Resource 4", link: "https://www.boardsbeyond.com/video/step-2-3-c/preterm-labor" },
  ],
  'Multimedia:Podcast': [
-     { title: "Resource 1", link: "" },
+    { title: "Resource 1", link: "https://accessmedicine-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=17964594" },
      { title: "Resource 2", link: "https://obgyn-mhmedical-com.rguhs.remotlog.com/MultimediaPlayer.aspx?MultimediaID=19277609" },
  ],
  'Review Questions': [
